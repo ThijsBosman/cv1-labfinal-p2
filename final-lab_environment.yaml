@@ -1,0 +1,16 @@
+name: final-lab
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.4
+  - pip=24.2
+  - pip:
+    - --extra-index-url https://download.pytorch.org/whl/cu129
+    - numpy==2.3.3
+    - jupyer==1.1.1
+    - matplotlib==3.10.7
+    - torch==2.8.0+cu129
+    - torchvision==0.23.0+cu129
+    - torchinfo==1.8.0
+    - tqdm==4.67.1
