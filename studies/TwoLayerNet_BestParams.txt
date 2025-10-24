@@ -1,0 +1,1 @@
+{'lr': 0.0008115506367631421, 'decay': 0.0, 'transform': 'easy_transform', 'batch_size': 512, 'dropout': 0.00339332800326499, 'hidden_size': 256}

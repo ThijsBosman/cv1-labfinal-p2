@@ -1,0 +1,1 @@
+{'lr': 0.0006209256802738554, 'decay': 1e-07, 'transform': 'easy_transform', 'batch_size': 32, 'dropout': 0.00021327352753609309}
