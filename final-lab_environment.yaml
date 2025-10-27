@@ -8,7 +8,7 @@ dependencies:
   - pip:
     - --extra-index-url https://download.pytorch.org/whl/cu129
     - numpy==2.3.3
-    - jupyer==1.1.1
+    - jupyter==1.1.1
     - matplotlib==3.10.7
     - torch==2.8.0+cu129
     - torchvision==0.23.0+cu129
